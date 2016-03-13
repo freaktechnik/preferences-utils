@@ -1,0 +1,25 @@
+{
+  "title": "Preferences Utils",
+  "name": "preferences-utils",
+  "version": "0.0.1",
+  "description": "Opens the preferences of a Firefox extension.",
+  "main": "index.js",
+  "author": "freaktechnik (https://humanoids.be)",
+  "engines": {
+    "firefox": ">=38.0a1"
+  },
+  "license": "MPL-2,0",
+  "keywords": [
+    "jetpack",
+    "preferences",
+    "firefox"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/freaktechnik/preferences-utils.git"
+  },
+  "bugs": {
+    "url": "https://github.com/freaktechnik/preferences-utils/issues"
+  },
+  "homepage": "https://github.com/freaktechnik/preferences-utils"
+}
