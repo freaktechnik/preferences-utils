@@ -1,4 +1,6 @@
 #Preferences Utils
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/freaktechnik/preferences-utils.svg)](https://greenkeeper.io/)
 Opens the preferences of a Firefox extension. Can serve as drop-in replacement for sdk/preferences/utils.
 
 ## Usage
